@@ -12,7 +12,7 @@ Python Script that runs 24/7 in the background, uploading built plugins to your 
 
 **Setting up the Script**
 
-Download the script.pyw and edit it with your preferred text editor. Once you open the file, follow the directions below.
+Copy the [script.pyw](https://github.com/Siiant/Plugin-Upload-Script/blob/main/script.pyw) and paste it into your preferred text editor. Once you open the file, follow the directions below.
 
 1. Change `path = "PLUGIN_BUILD_LOCATION"` to match your plugin build location.
 > It should go from path = "PLUGIN_BUILD_LOCATION" to something like path = "C:\\PBuilds\\"
