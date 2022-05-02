@@ -16,7 +16,7 @@ Copy the [script.pyw](https://github.com/Siiant/Plugin-Upload-Script/blob/main/s
 
 1. Change `path = "PLUGIN_BUILD_LOCATION"` to match your plugin build location.
    - It should go from `path = "PLUGIN_BUILD_LOCATION"` to something like `path = "C:\\PBuilds\\"`
-   - Python will require two backslashes to act as one, so we must use "C:\\PBuilds\\" instead of "C:\PBuilds\"
+   - Python will require two backslashes to act as one, so we must use `"C:\\PBuilds\\"` instead of `"C:\PBuilds\"`
 2. Change ` client.connect('IP', username = 'SFTP_USERNAME', password = 'SFTP_PASSWORD')` to your SFTP IP, Username, and Password.
    - It should look something like `client.connect('192.168.1.1', username = 'admin', password = 'password')`
    - If your password contains unique characters, be sure to use the [Escape Characters](https://pythonexamples.org/python-escape-characters/) instead.
