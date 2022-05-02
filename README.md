@@ -8,7 +8,7 @@ Python Script that runs 24/7 in the background, uploading built plugins to your 
 > 
 > [Python on your PC](https://www.python.org/downloads/)
 > 
-> Plugins to build to one folder
+> Plugins building to one folder
 
 **Setting up the Script**
 1. Change `path = "PLUGIN_BUILD_LOCATION"` to match your plugin build location.
