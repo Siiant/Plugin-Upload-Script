@@ -21,5 +21,6 @@ Python Script that runs 24/7 in the background, uploading built plugins to your 
 5. Put the finished Script inside of `C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup` on your PC. This will run it on PC startup.
 6. (Optional) Add a shortcut to the desktop for the script.
 
-**Usage**
- Assuming the Script is running, just build your plugin like normal inside your IDE, and wait about 5 seconds! You should see a broadcast message saying the plugin was reloaded.
+**Usage** 
+
+Assuming the Script is running, just build your plugin like normal inside your IDE, and wait about 5 seconds! You should see a broadcast message saying the plugin was reloaded.
