@@ -4,7 +4,7 @@ Python Script that runs 24/7 in the background on your PC, uploading built plugi
 **Prerequisites/ Requirements**
 > [Plugman](https://dev.bukkit.org/projects/plugman) or [PlugmanX](https://www.spigotmc.org/resources/plugmanx.88135/)
 > 
-> [Screen running on your Linux Machine, more specifially for your MineCraft server](https://oscarhjelm.com/blag/2011/02/minecraft-server-on-linux-using-screen/)
+> [Screen running on your Linux Machine, more specifially for your Minecraft server](https://oscarhjelm.com/blag/2011/02/minecraft-server-on-linux-using-screen/)
 > 
 > [Python on your PC](https://www.python.org/downloads/)
 > 
