@@ -1,5 +1,5 @@
 # Plugin-Upload-Script
-Python Script that runs 24/7 in the background, uploading built plugins to your server, and reloading the plugin.
+Python Script that runs 24/7 in the background on your PC, uploading built plugins to your Minecraft server, and reloading the plugin.
 ## How to use
 **Prerequisites/ Requirements**
 > [Plugman](https://dev.bukkit.org/projects/plugman) or [PlugmanX](https://www.spigotmc.org/resources/plugmanx.88135/)
